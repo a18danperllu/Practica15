@@ -1,4 +1,6 @@
 #!/bin/bash
+#DaniPerezLlurba
+#https://github.com/a18danperllu/Practica15/afegeix-usuari-local.sh                   
 # 1-Asegurar que el script lo ejecuta el superusuario
 if [[ "${UID}" -eq 0 ]]
 then
